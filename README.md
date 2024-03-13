@@ -26,3 +26,5 @@ O código é composto pelos seguintes arquivos:
 ## Notas
 
 Este projeto é apenas para fins educacionais. Não apoiamos nem incentivamos atividades ilegais relacionadas à lavagem de dinheiro.
+
+![Exemplo do log de vendas](https://i.imgur.com/g0G2hAu.png)
